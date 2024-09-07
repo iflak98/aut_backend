@@ -1,0 +1,221 @@
+[2024-01-22T02:50:22.557] [INFO] default - Generating unit testing file for  app.component.ts 
+
+[2024-01-22T02:50:32.392] [INFO] default - Generating unit testing file for  app.component.ts 
+
+[2024-01-22T02:53:59.269] [INFO] default - Generating unit testing file for  app.component.ts 
+
+[2024-01-22T02:56:37.267] [INFO] default - Generating unit testing file for  app.component.ts 
+
+[2024-01-22T02:58:08.439] [INFO] default - Generating unit testing file for  app.component.ts 
+
+[2024-01-22T02:58:53.036] [INFO] default - Generating unit testing file for  app.component.ts 
+
+[2024-01-22T03:02:18.477] [INFO] default - Generating unit testing file for  app.component.ts 
+
+[2024-01-22T03:02:37.433] [INFO] default - Generating unit testing file for  app.component.ts 
+
+[2024-01-22T03:13:31.739] [INFO] default - Generating unit testing file for  app.component.ts 
+
+[2024-01-22T03:14:18.784] [INFO] default - Generating unit testing file for  app.component.ts 
+
+[2024-01-22T11:12:06.386] [INFO] default - Generating unit testing file for  app.component.ts 
+
+[2024-01-22T11:12:07.241] [INFO] default - Generated app.component.spec.ts at C:\Users\somdghos\Documents\Angular_app\Sample_app\src\app
+[2024-01-22T11:23:15.739] [INFO] default - Generating unit testing file for  app.component.ts 
+
+[2024-01-22T11:23:16.467] [INFO] default - Generated app.component.spec.ts at C:\Users\somdghos\Angular\Example\src\app
+[2024-01-22T11:23:16.628] [INFO] default - Generating unit testing file for  employe.model.ts 
+
+[2024-01-22T11:23:17.364] [INFO] default - Generated employe.model.spec.ts at C:\Users\somdghos\Angular\Example\src\app\employee
+[2024-01-22T11:23:17.510] [INFO] default - Generating unit testing file for  employee.component.test.ts 
+
+[2024-01-22T11:25:26.015] [INFO] default - Generating unit testing file for  app.component.ts 
+
+[2024-01-22T11:25:26.774] [INFO] default - Generated app.component.spec.ts at C:\Users\somdghos\Documents\Angular_app\Sample_app\src\app
+[2024-01-22T11:28:03.547] [INFO] default - Generating unit testing file for  app.component.ts 
+
+[2024-01-22T11:28:04.247] [INFO] default - Generated app.component.spec.ts at C:\Users\somdghos\Angular\Example\src\app
+[2024-01-22T11:28:04.419] [INFO] default - Generating unit testing file for  employe.model.ts 
+
+[2024-01-22T11:28:05.167] [INFO] default - Generated employe.model.spec.ts at C:\Users\somdghos\Angular\Example\src\app\employee
+[2024-01-22T11:28:05.330] [INFO] default - Generating unit testing file for  employee.component.test.ts 
+
+[2024-01-22T11:32:41.171] [INFO] default - Generating unit testing file for  app.component.ts 
+
+[2024-01-22T11:32:42.020] [INFO] default - Generated app.component.spec.ts at C:\Users\somdghos\Documents\Angular_app\Sample_app\src\app
+[2024-01-22T11:37:41.814] [INFO] default - Generating unit testing file for  app.component.ts 
+
+[2024-01-22T11:37:43.459] [INFO] default - Generated app.component.spec.ts at C:\Users\somdghos\Angular\Angular_project\src\app
+[2024-01-22T11:37:43.614] [INFO] default - Generating unit testing file for  employe.model.ts 
+
+[2024-01-22T11:37:44.519] [INFO] default - Generated employe.model.spec.ts at C:\Users\somdghos\Angular\Angular_project\src\app\employee
+[2024-01-22T11:37:44.674] [INFO] default - Generating unit testing file for  employee.component.spec1.ts 
+
+[2024-01-22T11:40:20.355] [INFO] default - Generating unit testing file for  app.component.ts 
+
+[2024-01-22T11:40:21.500] [INFO] default - Generated app.component.spec.ts at C:\Users\somdghos\Angular\Angular_project\src\app
+[2024-01-22T11:40:21.666] [INFO] default - Generating unit testing file for  employe.model.ts 
+
+[2024-01-22T11:40:22.757] [INFO] default - Generated employe.model.spec.ts at C:\Users\somdghos\Angular\Angular_project\src\app\employee
+[2024-01-22T11:40:22.911] [INFO] default - Generating unit testing file for  employee.component.ts 
+
+[2024-01-22T11:40:24.769] [INFO] default - Generated employee.component.spec.ts at C:\Users\somdghos\Angular\Angular_project\src\app\employee
+[2024-01-22T11:40:25.128] [INFO] default - Generating unit testing file for  api.service.ts 
+
+[2024-01-22T11:40:26.751] [INFO] default - Generated api.service.spec.ts at C:\Users\somdghos\Angular\Angular_project\src\app\shared
+[2024-01-22T11:56:55.844] [INFO] default - Generating unit testing file for  app.component.ts 
+
+[2024-01-22T11:56:57.015] [INFO] default - Generated app.component.spec.ts at C:\Users\somdghos\Angular\Angular_project\src\app
+[2024-01-22T11:56:57.355] [INFO] default - Generating unit testing file for  employe.model.ts 
+
+[2024-01-22T11:56:58.171] [INFO] default - Generated employe.model.spec.ts at C:\Users\somdghos\Angular\Angular_project\src\app\employee
+[2024-01-22T11:56:58.320] [INFO] default - Generating unit testing file for  employee.component.ts 
+
+[2024-01-22T11:56:59.456] [INFO] default - Generated employee.component.spec.ts at C:\Users\somdghos\Angular\Angular_project\src\app\employee
+[2024-01-22T11:56:59.613] [INFO] default - Generating unit testing file for  api.service.ts 
+
+[2024-01-22T11:57:00.436] [INFO] default - Generated api.service.spec.ts at C:\Users\somdghos\Angular\Angular_project\src\app\shared
+[2024-01-22T11:58:01.553] [INFO] default - Generating unit testing file for  app.component.ts 
+
+[2024-01-22T11:58:02.732] [INFO] default - Generated app.component.spec.ts at C:\Users\somdghos\Angular\Angular_project\src\app
+[2024-01-22T11:58:02.935] [INFO] default - Generating unit testing file for  employe.model.ts 
+
+[2024-01-22T11:58:03.785] [INFO] default - Generated employe.model.spec.ts at C:\Users\somdghos\Angular\Angular_project\src\app\employee
+[2024-01-22T11:58:03.961] [INFO] default - Generating unit testing file for  employee.component.ts 
+
+[2024-01-22T11:58:05.056] [INFO] default - Generated employee.component.spec.ts at C:\Users\somdghos\Angular\Angular_project\src\app\employee
+[2024-01-22T11:58:05.200] [INFO] default - Generating unit testing file for  api.service.ts 
+
+[2024-01-22T11:58:06.175] [INFO] default - Generated api.service.spec.ts at C:\Users\somdghos\Angular\Angular_project\src\app\shared
+[2024-01-22T12:04:57.125] [INFO] default - Generating unit testing file for  app.component.ts 
+
+[2024-01-22T12:04:58.139] [INFO] default - Generated app.component.spec.ts at C:\Users\somdghos\Angular\Angular_project\src\app
+[2024-01-22T12:04:58.290] [INFO] default - Generating unit testing file for  employe.model.ts 
+
+[2024-01-22T12:04:59.130] [INFO] default - Generated employe.model.spec.ts at C:\Users\somdghos\Angular\Angular_project\src\app\employee
+[2024-01-22T12:04:59.286] [INFO] default - Generating unit testing file for  employee.component.spec1.ts 
+
+[2024-01-22T12:05:39.186] [INFO] default - Generating unit testing file for  app.component.ts 
+
+[2024-01-22T12:05:39.998] [INFO] default - Generated app.component.spec.ts at C:\Users\somdghos\Angular\Angular_project\src\app
+[2024-01-22T12:05:40.167] [INFO] default - Generating unit testing file for  employe.model.ts 
+
+[2024-01-22T12:05:41.217] [INFO] default - Generated employe.model.spec.ts at C:\Users\somdghos\Angular\Angular_project\src\app\employee
+[2024-01-22T12:05:41.507] [INFO] default - Generating unit testing file for  employee.component.ts 
+
+[2024-01-22T12:05:42.823] [INFO] default - Generated employee.component.spec.ts at C:\Users\somdghos\Angular\Angular_project\src\app\employee
+[2024-01-22T12:05:43.045] [INFO] default - Generating unit testing file for  api.service.ts 
+
+[2024-01-22T12:05:44.252] [INFO] default - Generated api.service.spec.ts at C:\Users\somdghos\Angular\Angular_project\src\app\shared
+[2024-01-22T12:22:41.562] [INFO] default - Generating unit testing file for  app.component.ts 
+
+[2024-01-22T12:22:42.297] [INFO] default - Generated app.component.spec.ts at C:\Users\somdghos\Angular\Angular_project\src\app
+[2024-01-22T12:22:42.427] [INFO] default - Generating unit testing file for  employe.model.ts 
+
+[2024-01-22T12:22:43.182] [INFO] default - Generated employe.model.spec.ts at C:\Users\somdghos\Angular\Angular_project\src\app\employee
+[2024-01-22T12:22:43.310] [INFO] default - Generating unit testing file for  employee.component.ts 
+
+[2024-01-22T12:22:44.175] [INFO] default - Generated employee.component.spec.ts at C:\Users\somdghos\Angular\Angular_project\src\app\employee
+[2024-01-22T12:22:44.300] [INFO] default - Generating unit testing file for  api.service.ts 
+
+[2024-01-22T12:22:45.131] [INFO] default - Generated api.service.spec.ts at C:\Users\somdghos\Angular\Angular_project\src\app\shared
+[2024-01-22T13:38:46.529] [INFO] default - Generating unit testing file for  app.component.ts 
+
+[2024-01-22T13:42:11.703] [INFO] default - Generating unit testing file for  app.component.ts 
+
+[2024-01-22T13:43:15.322] [INFO] default - Generating unit testing file for  app.component.ts 
+
+[2024-01-22T13:46:26.833] [INFO] default - Generating unit testing file for  app.component.ts 
+
+[2024-01-22T13:46:27.704] [INFO] default - Generated app.component.spec.ts at C:\Users\somdghos\Angular\Angular_project\src\app
+[2024-01-22T13:46:27.845] [INFO] default - Generating unit testing file for  employe.model.ts 
+
+[2024-01-22T13:46:28.773] [INFO] default - Generated employe.model.spec.ts at C:\Users\somdghos\Angular\Angular_project\src\app\employee
+[2024-01-22T13:46:28.903] [INFO] default - Generating unit testing file for  employee.component.ts 
+
+[2024-01-22T13:46:29.900] [INFO] default - Generated employee.component.spec.ts at C:\Users\somdghos\Angular\Angular_project\src\app\employee
+[2024-01-22T13:46:30.053] [INFO] default - Generating unit testing file for  api.service.ts 
+
+[2024-01-22T13:46:30.988] [INFO] default - Generated api.service.spec.ts at C:\Users\somdghos\Angular\Angular_project\src\app\shared
+[2024-01-22T14:13:27.606] [INFO] default - Generating unit testing file for  app.component.ts 
+
+[2024-01-22T14:13:28.790] [INFO] default - Generated app.component.spec.ts at C:\Users\somdghos\Angular\Angular_project\src\app
+[2024-01-22T14:13:28.994] [INFO] default - Generating unit testing file for  employe.model.ts 
+
+[2024-01-22T14:13:30.171] [INFO] default - Generated employe.model.spec.ts at C:\Users\somdghos\Angular\Angular_project\src\app\employee
+[2024-01-22T14:13:30.325] [INFO] default - Generating unit testing file for  employee.component.ts 
+
+[2024-01-22T14:13:31.421] [INFO] default - Generated employee.component.spec.ts at C:\Users\somdghos\Angular\Angular_project\src\app\employee
+[2024-01-22T14:13:31.588] [INFO] default - Generating unit testing file for  api.service.ts 
+
+[2024-01-22T14:13:32.638] [INFO] default - Generated api.service.spec.ts at C:\Users\somdghos\Angular\Angular_project\src\app\shared
+[2024-01-22T14:15:42.069] [INFO] default - Generating unit testing file for  app.component.ts 
+
+[2024-01-22T14:15:43.105] [INFO] default - Generated app.component.spec.ts at C:\Users\somdghos\Angular\Angular_project\src\app
+[2024-01-22T14:15:43.283] [INFO] default - Generating unit testing file for  employe.model.ts 
+
+[2024-01-22T14:15:44.607] [INFO] default - Generated employe.model.spec.ts at C:\Users\somdghos\Angular\Angular_project\src\app\employee
+[2024-01-22T14:15:44.778] [INFO] default - Generating unit testing file for  employee.component.ts 
+
+[2024-01-22T14:15:45.900] [INFO] default - Generated employee.component.spec.ts at C:\Users\somdghos\Angular\Angular_project\src\app\employee
+[2024-01-22T14:15:46.060] [INFO] default - Generating unit testing file for  api.service.ts 
+
+[2024-01-22T14:15:47.018] [INFO] default - Generated api.service.spec.ts at C:\Users\somdghos\Angular\Angular_project\src\app\shared
+[2024-01-22T14:16:54.589] [INFO] default - Generating unit testing file for  app.component.ts 
+
+[2024-01-22T14:16:55.502] [INFO] default - Generated app.component.spec.ts at C:\Users\somdghos\Documents\Angular_app\Sample_app\src\app
+[2024-01-22T14:21:31.908] [INFO] default - Generating unit testing file for  app.component.ts 
+
+[2024-01-22T14:21:33.233] [INFO] default - Generated app.component.spec.ts at C:\Users\somdghos\Angular\Angular_project\src\app
+[2024-01-22T14:21:33.939] [INFO] default - Generating unit testing file for  employe.model.ts 
+
+[2024-01-22T14:21:35.093] [INFO] default - Generated employe.model.spec.ts at C:\Users\somdghos\Angular\Angular_project\src\app\employee
+[2024-01-22T14:21:35.244] [INFO] default - Generating unit testing file for  employee.component.ts 
+
+[2024-01-22T14:21:36.348] [INFO] default - Generated employee.component.spec.ts at C:\Users\somdghos\Angular\Angular_project\src\app\employee
+[2024-01-22T14:21:36.519] [INFO] default - Generating unit testing file for  api.service.ts 
+
+[2024-01-22T14:21:37.546] [INFO] default - Generated api.service.spec.ts at C:\Users\somdghos\Angular\Angular_project\src\app\shared
+[2024-01-22T15:27:06.855] [INFO] default - Generating unit testing file for  app.component.ts 
+
+[2024-01-22T15:27:08.362] [INFO] default - Generated app.component.spec.ts at C:\Users\somdghos\Angular\Angular_project\src\app
+[2024-01-22T15:27:08.654] [INFO] default - Generating unit testing file for  employe.model.ts 
+
+[2024-01-22T15:27:10.381] [INFO] default - Generated employe.model.spec.ts at C:\Users\somdghos\Angular\Angular_project\src\app\employee
+[2024-01-22T15:27:10.725] [INFO] default - Generating unit testing file for  employee.component.ts 
+
+[2024-01-22T15:27:12.700] [INFO] default - Generated employee.component.spec.ts at C:\Users\somdghos\Angular\Angular_project\src\app\employee
+[2024-01-22T15:27:12.941] [INFO] default - Generating unit testing file for  api.service.ts 
+
+[2024-01-22T15:27:14.276] [INFO] default - Generated api.service.spec.ts at C:\Users\somdghos\Angular\Angular_project\src\app\shared
+[2024-01-22T16:31:52.558] [INFO] default - Generating unit testing file for  app.component.ts 
+
+[2024-01-22T16:31:53.598] [INFO] default - Generated app.component.spec.ts at C:\Users\somdghos\Angular\Angular_project\src\app
+[2024-01-22T16:31:53.819] [INFO] default - Generating unit testing file for  employe.model.ts 
+
+[2024-01-22T16:31:55.312] [INFO] default - Generated employe.model.spec.ts at C:\Users\somdghos\Angular\Angular_project\src\app\employee
+[2024-01-22T16:31:55.479] [INFO] default - Generating unit testing file for  employee.component.ts 
+
+[2024-01-22T16:31:56.984] [INFO] default - Generated employee.component.spec.ts at C:\Users\somdghos\Angular\Angular_project\src\app\employee
+[2024-01-22T16:31:57.193] [INFO] default - Generating unit testing file for  api.service.ts 
+
+[2024-01-22T16:31:58.641] [INFO] default - Generated api.service.spec.ts at C:\Users\somdghos\Angular\Angular_project\src\app\shared
+[2024-01-22T17:20:52.212] [INFO] default - running npm run test -- --include src/app/app.component.spec.ts --code-coverage
+[2024-03-04T11:50:51.026] [INFO] default - running npm run test -- --include src/app/employee/employee.compon.spec.ts --code-coverage
+[2024-03-04T11:52:14.269] [INFO] default - running npm run test -- --include src/app/employee/employee.compon.spec.ts --code-coverage
+[2024-03-04T11:56:19.268] [INFO] default - running npm run test -- --include src/app/employee/employee.compon.spec.ts --code-coverage
+[2024-03-04T11:57:53.460] [INFO] default - running npm run test --include src/app/employee/employee.compon.spec.ts --code-coverage
+[2024-03-04T12:00:52.119] [INFO] default - running npm run test --include src/app/employee/employee.component.spec.ts --code-coverage
+[2024-03-04T12:02:19.176] [INFO] default - running npm run test -- --include src/app/employee/employee.component.spec.ts --code-coverage
+[2024-03-04T12:06:43.436] [INFO] default - Generating unit testing file for  app.component.ts 
+
+[2024-03-04T12:06:45.328] [INFO] default - Generated app.component.spec.ts at C:\Users\IYOUSUFM\Downloads\Angular_sample\src\app
+[2024-03-04T12:06:45.635] [INFO] default - Generating unit testing file for  employe.model.ts 
+
+[2024-03-04T12:06:47.187] [INFO] default - Generated employe.model.spec.ts at C:\Users\IYOUSUFM\Downloads\Angular_sample\src\app\employee
+[2024-03-04T12:06:47.467] [INFO] default - Generating unit testing file for  employee.component.ts 
+
+[2024-03-04T12:06:49.521] [INFO] default - Generated employee.component.spec.ts at C:\Users\IYOUSUFM\Downloads\Angular_sample\src\app\employee
+[2024-03-04T12:06:49.848] [INFO] default - Generating unit testing file for  api.service.ts 
+
+[2024-03-04T12:06:52.019] [INFO] default - Generated api.service.spec.ts at C:\Users\IYOUSUFM\Downloads\Angular_sample\src\app\shared
